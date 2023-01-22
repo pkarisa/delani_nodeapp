@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+#home{
+
+  background-image: url("images/backgrounds/h_image.jpg");
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  background-position: center;
+  font-family: 'Gabriela', serif;
+
+}
+
+#services{
+
+  background-image: url("images/backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Gabriela', serif;
+}
+
+#contact-us{
+
+  background-image: url("images/backgrounds/c_image.jpg");
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  background-position: center;
+  font-family: 'Copse', serif;
+
+}
+
+.socials{
+
+  font-size: xx-small;
+
+}
+
+#submitButton{
+
+  text-decoration: none;
+}
+
+#sign-out{
+
+  font-size: small;
+
+  font-weight: bold;
+}
+#copyright{
+  font-size: xx-small;
+}
+
+.paragraph{
+  font-family:'Gabriela', serif;
+}
+
+h4{
+  font-family:'Gabriela', serif;
+}
+h2{
+  font-family:'Gabriela', serif;
+}
+#WHAT WE DO{
+  text-align: center;
+  background-position: center center;
+  font-family: 'quattrocento', serif;
+  padding: 40px;
+} 
+
+.description{
+  display: none;
+}
+.workImages{
+  display: block;
+} 
+.workImages:hover, .description:hover {
+  cursor: pointer;
+}
