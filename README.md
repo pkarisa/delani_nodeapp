@@ -1,10 +1,13 @@
-Author
+### Author
 Pendo Karisa
-DELANIAPP
-Description
+
+
+## DELANIAPP
+
+# Description
 This project is an app for Delani studio that shows details about the services it offers,it has information about the studio, a portfolio section and a form that enables users to communicate their concern with the business through email and follow ups are done.
 
-Setup/Installation Requirements
+# Setup/Installation Requirements
 *Open your Terminal by the following combination of keys Ctrl + Alt + T
 
 *local host
@@ -14,7 +17,7 @@ Setup/Installation Requirements
 *Run Code . or Atom . depending on the editors choice.
 
 
-Technologies Used
+# Technologies Used
 *HTML
 
 *CSS
@@ -27,7 +30,7 @@ Technologies Used
 
 *Node
 
-Support and contact details
+# Support and contact details
 If you have any question or contributions, please email me at [fkarisa@gmail.com]
 
 License
